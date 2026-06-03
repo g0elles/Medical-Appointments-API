@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="D:/Projects/Portfolio/Medical-Appointments-API/MedicalAppointments.Domain/MedicalAppointments.Domain/MedicalAppointments.Domain.csproj" />
+    <Project Path="MedicalAppointments.Application/MedicalAppointments.Application.csproj" Id="5bed8aed-afd9-40d6-842b-b8a12b564942" />
+    <Project Path="MedicalAppointments.Infrastructure/MedicalAppointments.Infrastructure.csproj" Id="cc9fda4d-0f84-4311-9276-0d0f76f4b1d9" />
+  </Folder>
+</Solution>
